@@ -1,0 +1,11 @@
+"user_id","name","country","city","role","department","education","age","gender","marital_status","experience_years","skills","languages","hobbies","salary","email","phone"
+"1","Ana Ruiz","Perú","Santiago","Engineer","IT","Master","28","Male","Married","19","PyTorch, Keras, Unity","French, English","Traveling","98156","ana.ruiz@example.com","+57-3654571517"
+"74","Laura García","Perú","Lima","Developer","IT","High School","39","Male","Divorced","4","C#, Unity, TensorFlow","Spanish","Gaming","96480","laura.garcía@example.com","+57-3468416640"
+"48","Luis García","España","Ciudad de México","Researcher","Finance","Bachelor","27","Male","Married","6","SQL","French","Cooking, Traveling, Hiking","79847","luis.garcía@example.com","+57-3398552506"
+"18","Andrés García","Colombia","Madrid","Intern","IT","Bachelor","24","Female","Divorced","1","Java, Unity","French","Gaming, Traveling","48644","andrés.garcía@example.com","+57-3715407128"
+"39","Jorge Rodríguez","Colombia","Ciudad de México","Analyst","IT","Bachelor","44","Female","Divorced","12","Git, TensorFlow","English","Music, Reading, Cooking","112045","jorge.rodríguez@example.com","+57-3973405847"
+"51","Laura Ruiz","Perú","Ciudad de México","Engineer","R&D","Bachelor","33","Other","Single","8","PyTorch","Spanish, German","Cooking, Gaming","64447","laura.ruiz@example.com","+57-3963254751"
+"65","Carlos López","Perú","Madrid","Analyst","Operations","High School","54","Male","Divorced","6","PyTorch, Python","French, German","Cooking","102595","carlos.lópez@example.com","+57-3515399142"
+"20","Ana Díaz","México","Barcelona","Analyst","Operations","Bachelor","29","Female","Married","15","Git, PyTorch, Unity","Spanish","Hiking, Cooking","85193","ana.díaz@example.com","+57-3109143996"
+"55","Lucía Hernández","Colombia","Bogotá","Researcher","Data","PhD","54","Other","Divorced","11","Java","German","Hiking","54406","lucía.hernández@example.com","+57-3534168450"
+,,,,,,,,,,,,,,,,
